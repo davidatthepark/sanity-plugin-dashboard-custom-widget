@@ -3,7 +3,7 @@
   "description": "A sanity dasboard widget that renders anything you want",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "scripts": {
     "build": "tsc",
     "prepare": "npm run build"
